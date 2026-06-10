@@ -1,4 +1,4 @@
-# 
+# Natif RAGFlow scripts. Avec raisonnement automatisé et indexation des données — optimisé pour des performances et une efficacité maximales.
 
 
 
